@@ -1,7 +1,7 @@
-# 📊 Codebase Statistics
+## 📊 Codebase Statistics
 
 **User:** `willowweevil`  
-**Ignored files:** `660`  
+**Ignored files:** `59`  
 **Analyzed files:** `492`
 
 ---
