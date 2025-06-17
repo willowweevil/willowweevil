@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Top Langs](https://github-readme-stats-psi-topaz-21.vercel.app//api/top-langs/?username=willowweevil)](https://github.com/willowweevil/github-readme-stats)
+[![Top Langs](https://github-readme-stats-psi-topaz-21.vercel.app//api/top-langs/?username=willowweevil)](https://github.com/willowweevil/github-readme-stats&hide=jupyter%20notebook)
 
 
 
