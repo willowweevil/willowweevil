@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Top Langs](https://github-readme-stats-psi-topaz-21.vercel.app/api/top-langs/?username=willowweevil&layout=compact&langs_count=8&theme=tokyonight&size_weight=0.5&count_weight=0.5&exclude_repo=Material-Science-Articles-Recognition,Materials-Science)](https://github.com/willowweevil/github-readme-stats)
+[![Top Langs](https://github-readme-stats-psi-topaz-21.vercel.app/api/top-langs/?username=willowweevil&layout=compact&langs_count=8&theme=tokyonight&size_weight=0.0&count_weight=1.0)](https://github.com/willowweevil/github-readme-stats)
 
 <!-- 
 **willowweevil/willowweevil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
