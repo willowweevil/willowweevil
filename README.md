@@ -2,10 +2,6 @@
 
 ---
 
-Made with [ghloc](https://github.com/willowweevil/ghloc)
-
----
-
 **User:** `willowweevil`  
 **Ignored files:** `751`  
 **Analyzed files:** `534`
@@ -22,3 +18,7 @@ Made with [ghloc](https://github.com/willowweevil/ghloc)
 | 🦊 **Go**                       |  2  |   20.92   |    0.65    |  120 |
 | 🏁 **DOS Batch**                |  1  |   19.05   |    11.90    |  29 |
 | **SUM**                      |  78  |   4.36   |    71.22    |  8136 |
+
+---
+
+*Made with [ghloc](https://github.com/willowweevil/ghloc)*
